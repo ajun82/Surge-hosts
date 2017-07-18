@@ -20,7 +20,7 @@ URL： https://raw.githubusercontent.com/ajun82/Surge-hosts/master/surge-hosts.c
 
 ## 注意
 * 更新hosts数据请重复执行[使用方法1-3步] 覆盖本地hosts数据
-* 配合使用 Https 效果更佳，例如访问 Google 国际版:[https://www.google.com/ncr] (https://www.google.com/ncr)
+* 配合使用 Https 效果更佳，例如访问 Google 国际版:[https://www.google.com/ncr](https://www.google.com/ncr)
 * 配合 DNS 效果更佳，推荐：Google Public DNS：8.8.8.8/8.8.4.4
 * 若有其它问题请尝试重启设备
 
